@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "ImportExportKey": "44165a7f4b4f426689e264254446f894",
+  "cardsKey": "4dc6cc660df24dae8ed88fdc050eff53",
+  "source": "Rechenaufgabe",
+  "target": "Ergebnis",
+  "sourceVoice": "Default",
+  "targetVoice": "Default",
+  "cards": [
+    {
+      "sourceTerm": "3 + 4",
+      "sourceHint": "Addition",
+      "sourceExample": "Drei plus vier.",
+      "targetTerm": "7",
+      "targetExample": "Das Ergebnis ist sieben.",
+      "level": "M1.1",
+      "wordType": "Rechnen"
+    },
+    {
+      "sourceTerm": "9 - 5",
+      "sourceHint": "Subtraktion",
+      "sourceExample": "Neun minus fünf.",
+      "targetTerm": "4",
+      "targetExample": "Das Ergebnis ist vier.",
+      "level": "M1.1",
+      "wordType": "Rechnen"
+    },
+    {
+      "sourceTerm": "6 × 7",
+      "sourceHint": "Multiplikation",
+      "sourceExample": "Sechs mal sieben.",
+      "targetTerm": "42",
+      "targetExample": "Das Ergebnis ist zweiundvierzig.",
+      "level": "M1.1",
+      "wordType": "Rechnen"
+    }
+  ]
+}

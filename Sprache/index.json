@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "Folder": [
+    {
+      "folder": "Deutsch-Englisch",
+      "source": "Deutsch",
+      "target": "Englisch"
+    },
+    {
+      "folder": "Franzoesisch-Englisch",
+      "source": "Französisch",
+      "target": "Englisch"
+    }
+  ]
+}

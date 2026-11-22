@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "cards": [
+    {
+      "file": "M1.1_AUFGABE-LOESUNG.json",
+      "level": "M1.1",
+      "cardsKey": "4dc6cc660df24dae8ed88fdc050eff53",
+      "source": "Rechenaufgabe",
+      "target": "Ergebnis"
+    }
+  ]
+}

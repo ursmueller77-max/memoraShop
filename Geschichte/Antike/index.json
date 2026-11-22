@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "cards": [
+    {
+      "file": "Antike_FRAGE-ANTWORT.json",
+      "level": "Antike",
+      "cardsKey": "0cd15bd2cf854c728bd367933fcf6058",
+      "source": "Frage",
+      "target": "Antwort"
+    }
+  ]
+}

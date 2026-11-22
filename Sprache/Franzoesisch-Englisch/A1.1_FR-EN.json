@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "ImportExportKey": "323461019ca24ba28979889f51cde98d",
+  "cardsKey": "b7c15b7092704ad68ee35f57af64a900",
+  "source": "Französisch",
+  "target": "Englisch",
+  "sourceVoice": "fr-FR",
+  "targetVoice": "en-US",
+  "cards": [
+    {
+      "sourceTerm": "maison",
+      "sourceHint": "la maison",
+      "sourceExample": "La maison est grande.",
+      "targetTerm": "house",
+      "targetHint": "haʊs",
+      "targetExample": "The house is big.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "arbre",
+      "sourceHint": "l'arbre",
+      "sourceExample": "L'arbre est vieux.",
+      "targetTerm": "tree",
+      "targetHint": "triː",
+      "targetExample": "The tree is old.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "courir",
+      "sourceHint": "se déplacer vite",
+      "sourceExample": "Je cours vite.",
+      "targetTerm": "to run",
+      "targetHint": "rʌn",
+      "targetExample": "I run fast.",
+      "level": "A1.1",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "eau",
+      "sourceHint": "l'eau",
+      "sourceExample": "L'eau est froide.",
+      "targetTerm": "water",
+      "targetHint": "ˈwɔːtər",
+      "targetExample": "The water is cold.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "pain",
+      "sourceHint": "le pain",
+      "sourceExample": "Je mange du pain.",
+      "targetTerm": "bread",
+      "targetHint": "brɛd",
+      "targetExample": "I eat bread.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "livre",
+      "sourceHint": "le livre",
+      "sourceExample": "Le livre est nouveau.",
+      "targetTerm": "book",
+      "targetHint": "bʊk",
+      "targetExample": "The book is new.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "ami",
+      "sourceHint": "l'ami",
+      "sourceExample": "Mon ami est ici.",
+      "targetTerm": "friend",
+      "targetHint": "frɛnd",
+      "targetExample": "My friend is here.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "ville",
+      "sourceHint": "la ville",
+      "sourceExample": "La ville est grande.",
+      "targetTerm": "city",
+      "targetHint": "ˈsɪti",
+      "targetExample": "The city is large.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "voiture",
+      "sourceHint": "la voiture",
+      "sourceExample": "La voiture est rouge.",
+      "targetTerm": "car",
+      "targetHint": "kɑːr",
+      "targetExample": "The car is red.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "école",
+      "sourceHint": "l'école",
+      "sourceExample": "L'école est fermée.",
+      "targetTerm": "school",
+      "targetHint": "skuːl",
+      "targetExample": "The school is closed.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "manger",
+      "sourceHint": "manger",
+      "sourceExample": "Je mange une pomme.",
+      "targetTerm": "to eat",
+      "targetHint": "iːt",
+      "targetExample": "I eat an apple.",
+      "level": "A1.1",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "boire",
+      "sourceHint": "boire",
+      "sourceExample": "Je bois de l'eau.",
+      "targetTerm": "to drink",
+      "targetHint": "drɪŋk",
+      "targetExample": "I drink water.",
+      "level": "A1.1",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "dormir",
+      "sourceHint": "dormir",
+      "sourceExample": "L'enfant dort.",
+      "targetTerm": "to sleep",
+      "targetHint": "sliːp",
+      "targetExample": "The child sleeps.",
+      "level": "A1.1",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "bon",
+      "sourceHint": "bon",
+      "sourceExample": "La nourriture est bonne.",
+      "targetTerm": "good",
+      "targetHint": "ɡʊd",
+      "targetExample": "The food is good.",
+      "level": "A1.1",
+      "wordType": "Adjektiv"
+    },
+    {
+      "sourceTerm": "petit",
+      "sourceHint": "petit",
+      "sourceExample": "La maison est petite.",
+      "targetTerm": "small",
+      "targetHint": "smɔːl",
+      "targetExample": "The house is small.",
+      "level": "A1.1",
+      "wordType": "Adjektiv"
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+  "version": 1,
+  "ImportExportKey": "18960d25412246e4bf4b4c3ab0640e5d",
+  "cardsKey": "6f16c78971194527b49c4e90ee811d13",
+  "source": "Deutsch",
+  "target": "Englisch",
+  "sourceVoice": "de-DE",
+  "targetVoice": "en-US",
+  "cards": [
+    {
+      "sourceTerm": "Haus",
+      "sourceHint": "das Haus",
+      "sourceExample": "Das Haus ist gross.",
+      "targetTerm": "house",
+      "targetHint": "haʊs",
+      "targetExample": "The house is big.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "Baum",
+      "sourceHint": "der Baum",
+      "sourceExample": "Der Baum ist alt.",
+      "targetTerm": "tree",
+      "targetHint": "triː",
+      "targetExample": "The tree is old.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "laufen",
+      "sourceHint": "rennen",
+      "sourceExample": "Ich laufe schnell.",
+      "targetTerm": "to run",
+      "targetHint": "rʌn",
+      "targetExample": "I run fast.",
+      "level": "A1.1",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "Wasser",
+      "sourceHint": "das Wasser",
+      "sourceExample": "Das Wasser ist kalt.",
+      "targetTerm": "water",
+      "targetHint": "ˈwɔːtər",
+      "targetExample": "The water is cold.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "Brot",
+      "sourceHint": "das Brot",
+      "sourceExample": "Ich esse Brot.",
+      "targetTerm": "bread",
+      "targetHint": "brɛd",
+      "targetExample": "I eat bread.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "Buch",
+      "sourceHint": "das Buch",
+      "sourceExample": "Das Buch ist neu.",
+      "targetTerm": "book",
+      "targetHint": "bʊk",
+      "targetExample": "The book is new.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "Freund",
+      "sourceHint": "der Freund",
+      "sourceExample": "Mein Freund ist hier.",
+      "targetTerm": "friend",
+      "targetHint": "frɛnd",
+      "targetExample": "My friend is here.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "Stadt",
+      "sourceHint": "die Stadt",
+      "sourceExample": "Die Stadt ist gross.",
+      "targetTerm": "city",
+      "targetHint": "ˈsɪti",
+      "targetExample": "The city is large.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "Auto",
+      "sourceHint": "das Auto",
+      "sourceExample": "Das Auto ist rot.",
+      "targetTerm": "car",
+      "targetHint": "kɑːr",
+      "targetExample": "The car is red.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "Schule",
+      "sourceHint": "die Schule",
+      "sourceExample": "Die Schule ist geschlossen.",
+      "targetTerm": "school",
+      "targetHint": "skuːl",
+      "targetExample": "The school is closed.",
+      "level": "A1.1",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "essen",
+      "sourceHint": "essen",
+      "sourceExample": "Ich esse einen Apfel.",
+      "targetTerm": "to eat",
+      "targetHint": "iːt",
+      "targetExample": "I eat an apple.",
+      "level": "A1.1",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "trinken",
+      "sourceHint": "trinken",
+      "sourceExample": "Ich trinke Wasser.",
+      "targetTerm": "to drink",
+      "targetHint": "drɪŋk",
+      "targetExample": "I drink water.",
+      "level": "A1.1",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "schlafen",
+      "sourceHint": "schlafen",
+      "sourceExample": "Das Kind schläft.",
+      "targetTerm": "to sleep",
+      "targetHint": "sliːp",
+      "targetExample": "The child sleeps.",
+      "level": "A1.1",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "gut",
+      "sourceHint": "gut",
+      "sourceExample": "Das Essen ist gut.",
+      "targetTerm": "good",
+      "targetHint": "ɡʊd",
+      "targetExample": "The food is good.",
+      "level": "A1.1",
+      "wordType": "Adjektiv"
+    },
+    {
+      "sourceTerm": "klein",
+      "sourceHint": "klein",
+      "sourceExample": "Das Haus ist klein.",
+      "targetTerm": "small",
+      "targetHint": "smɔːl",
+      "targetExample": "The house is small.",
+      "level": "A1.1",
+      "wordType": "Adjektiv"
+    }
+  ]
+}

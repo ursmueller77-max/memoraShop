@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "cards": [
+    {
+      "file": "A1.1_FR-EN.json",
+      "level": "A1.1",
+      "cardsKey": "b7c15b7092704ad68ee35f57af64a900",
+      "source": "Französisch",
+      "target": "Englisch"
+    },
+    {
+      "file": "A1.2_FR-EN.json",
+      "level": "A1.2",
+      "cardsKey": "ebeae06cb3dc4ec8bb9a319280b35153",
+      "source": "Französisch",
+      "target": "Englisch"
+    },
+    {
+      "file": "A1.3_FR-EN.json",
+      "level": "A1.3",
+      "cardsKey": "ca131e490ec14ea0b567cf033bc5dd65",
+      "source": "Französisch",
+      "target": "Englisch"
+    },
+    {
+      "file": "A1.4_FR-EN.json",
+      "level": "A1.4",
+      "cardsKey": "456b951c101642019b2f63fe9c973428",
+      "source": "Französisch",
+      "target": "Englisch"
+    }
+  ]
+}

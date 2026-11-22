@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "ImportExportKey": "323461019ca24ba28979889f51cde98d",
+  "cardsKey": "456b951c101642019b2f63fe9c973428",
+  "source": "Französisch",
+  "target": "Englisch",
+  "sourceVoice": "fr-FR",
+  "targetVoice": "en-US",
+  "cards": [
+    {
+      "sourceTerm": "travail",
+      "sourceHint": "le travail",
+      "sourceExample": "Je vais au travail.",
+      "targetTerm": "work",
+      "targetHint": "wɜːk",
+      "targetExample": "I go to work.",
+      "level": "A1.4",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "bureau",
+      "sourceHint": "le bureau",
+      "sourceExample": "Le bureau est grand.",
+      "targetTerm": "office",
+      "targetHint": "ˈɒfɪs",
+      "targetExample": "The office is large.",
+      "level": "A1.4",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "collègue",
+      "sourceHint": "le collègue",
+      "sourceExample": "Mon collègue m'aide.",
+      "targetTerm": "colleague",
+      "targetHint": "ˈkɒliːɡ",
+      "targetExample": "My colleague helps me.",
+      "level": "A1.4",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "chef",
+      "sourceHint": "le chef",
+      "sourceExample": "Le chef est sympathique.",
+      "targetTerm": "boss",
+      "targetHint": "bɒs",
+      "targetExample": "The boss is friendly.",
+      "level": "A1.4",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "rendez-vous",
+      "sourceHint": "le rendez-vous",
+      "sourceExample": "J'ai un rendez-vous.",
+      "targetTerm": "appointment",
+      "targetHint": "əˈpɔɪntmənt",
+      "targetExample": "I have an appointment.",
+      "level": "A1.4",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "travailler",
+      "sourceHint": "travailler",
+      "sourceExample": "Je travaille à la maison.",
+      "targetTerm": "to work",
+      "targetHint": "wɜːk",
+      "targetExample": "I work from home.",
+      "level": "A1.4",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "discuter",
+      "sourceHint": "discuter",
+      "sourceExample": "Nous discutons du plan.",
+      "targetTerm": "to discuss",
+      "targetHint": "dɪˈskʌs",
+      "targetExample": "We discuss the plan.",
+      "level": "A1.4",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "à l'heure",
+      "sourceHint": "à l'heure",
+      "sourceExample": "Sois à l'heure, s'il te plaît.",
+      "targetTerm": "on time",
+      "targetHint": "ɒn taɪm",
+      "targetExample": "Please be on time.",
+      "level": "A1.4",
+      "wordType": "Adjektiv"
+    },
+    {
+      "sourceTerm": "fatigué",
+      "sourceHint": "fatigué",
+      "sourceExample": "Je suis fatigué.",
+      "targetTerm": "tired",
+      "targetHint": "ˈtaɪəd",
+      "targetExample": "I am tired.",
+      "level": "A1.4",
+      "wordType": "Adjektiv"
+    },
+    {
+      "sourceTerm": "fin de journée",
+      "sourceHint": "la fin de journée",
+      "sourceExample": "Enfin la fin de journée !",
+      "targetTerm": "end of work",
+      "targetHint": "end of the workday",
+      "targetExample": "Finally, the workday is over!",
+      "level": "A1.4",
+      "wordType": "Nomen"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "ImportExportKey": "18960d25412246e4bf4b4c3ab0640e5d",
+  "cardsKey": "b4a8b3b798fb4aed82b086135bc987d2",
+  "source": "Deutsch",
+  "target": "Englisch",
+  "sourceVoice": "de-DE",
+  "targetVoice": "en-US",
+  "cards": [
+    {
+      "sourceTerm": "Arbeit",
+      "sourceHint": "die Arbeit",
+      "sourceExample": "Ich gehe zur Arbeit.",
+      "targetTerm": "work",
+      "targetHint": "wɜːk",
+      "targetExample": "I go to work.",
+      "level": "A1.4",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "Büro",
+      "sourceHint": "das Büro",
+      "sourceExample": "Das Büro ist gross.",
+      "targetTerm": "office",
+      "targetHint": "ˈɒfɪs",
+      "targetExample": "The office is large.",
+      "level": "A1.4",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "Kollege",
+      "sourceHint": "der Kollege",
+      "sourceExample": "Mein Kollege hilft mir.",
+      "targetTerm": "colleague",
+      "targetHint": "ˈkɒliːɡ",
+      "targetExample": "My colleague helps me.",
+      "level": "A1.4",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "Chef",
+      "sourceHint": "der Chef",
+      "sourceExample": "Der Chef ist freundlich.",
+      "targetTerm": "boss",
+      "targetHint": "bɒs",
+      "targetExample": "The boss is friendly.",
+      "level": "A1.4",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "Termin",
+      "sourceHint": "der Termin",
+      "sourceExample": "Ich habe einen Termin.",
+      "targetTerm": "appointment",
+      "targetHint": "əˈpɔɪntmənt",
+      "targetExample": "I have an appointment.",
+      "level": "A1.4",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "arbeiten",
+      "sourceHint": "arbeiten",
+      "sourceExample": "Ich arbeite von zu Hause.",
+      "targetTerm": "to work",
+      "targetHint": "wɜːk",
+      "targetExample": "I work from home.",
+      "level": "A1.4",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "besprechen",
+      "sourceHint": "besprechen",
+      "sourceExample": "Wir besprechen den Plan.",
+      "targetTerm": "to discuss",
+      "targetHint": "dɪˈskʌs",
+      "targetExample": "We discuss the plan.",
+      "level": "A1.4",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "pünktlich",
+      "sourceHint": "pünktlich",
+      "sourceExample": "Bitte sei pünktlich.",
+      "targetTerm": "on time",
+      "targetHint": "ɒn taɪm",
+      "targetExample": "Please be on time.",
+      "level": "A1.4",
+      "wordType": "Adjektiv"
+    },
+    {
+      "sourceTerm": "müde",
+      "sourceHint": "müde",
+      "sourceExample": "Ich bin müde.",
+      "targetTerm": "tired",
+      "targetHint": "ˈtaɪəd",
+      "targetExample": "I am tired.",
+      "level": "A1.4",
+      "wordType": "Adjektiv"
+    },
+    {
+      "sourceTerm": "Feierabend",
+      "sourceHint": "der Feierabend",
+      "sourceExample": "Endlich Feierabend!",
+      "targetTerm": "end of work",
+      "targetHint": "end of the workday",
+      "targetExample": "Finally, the workday is over!",
+      "level": "A1.4",
+      "wordType": "Nomen"
+    }
+  ]
+}

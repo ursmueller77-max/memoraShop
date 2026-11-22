@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "ImportExportKey": "18960d25412246e4bf4b4c3ab0640e5d",
+  "cardsKey": "49d80d6606cd4798a33037423bceeb57",
+  "source": "Deutsch",
+  "target": "Englisch",
+  "sourceVoice": "de-DE",
+  "targetVoice": "en-US",
+  "cards": [
+    {
+      "sourceTerm": "Guten Morgen",
+      "sourceHint": "Begrüssung am Morgen",
+      "sourceExample": "Guten Morgen, wie geht es dir?",
+      "targetTerm": "Good morning",
+      "targetHint": "Begrüssung am Morgen",
+      "targetExample": "Good morning, how are you?",
+      "level": "A1.2",
+      "wordType": "Redewendung"
+    },
+    {
+      "sourceTerm": "Danke",
+      "sourceHint": "Höflichkeit",
+      "sourceExample": "Danke für die Hilfe.",
+      "targetTerm": "Thank you",
+      "targetHint": "Höflichkeit",
+      "targetExample": "Thank you for the help.",
+      "level": "A1.2",
+      "wordType": "Redewendung"
+    },
+    {
+      "sourceTerm": "Bitte",
+      "sourceHint": "Höflichkeit",
+      "sourceExample": "Ein Glas Wasser, bitte.",
+      "targetTerm": "Please",
+      "targetHint": "Höflichkeit",
+      "targetExample": "A glass of water, please.",
+      "level": "A1.2",
+      "wordType": "Redewendung"
+    },
+    {
+      "sourceTerm": "Entschuldigung",
+      "sourceHint": "Höflichkeit",
+      "sourceExample": "Entschuldigung, wo ist der Bahnhof?",
+      "targetTerm": "Excuse me",
+      "targetHint": "Höflichkeit",
+      "targetExample": "Excuse me, where is the station?",
+      "level": "A1.2",
+      "wordType": "Redewendung"
+    },
+    {
+      "sourceTerm": "Bahnhof",
+      "sourceHint": "der Bahnhof",
+      "sourceExample": "Der Bahnhof ist nah.",
+      "targetTerm": "train station",
+      "targetHint": "ˈtreɪn ˌsteɪʃən",
+      "targetExample": "The station is near.",
+      "level": "A1.2",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "Arzt",
+      "sourceHint": "der Arzt",
+      "sourceExample": "Ich gehe zum Arzt.",
+      "targetTerm": "doctor",
+      "targetHint": "ˈdɒktər",
+      "targetExample": "I go to the doctor.",
+      "level": "A1.2",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "einkaufen",
+      "sourceHint": "einkaufen gehen",
+      "sourceExample": "Ich kaufe im Supermarkt ein.",
+      "targetTerm": "to shop",
+      "targetHint": "ʃɒp",
+      "targetExample": "I shop at the supermarket.",
+      "level": "A1.2",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "heute",
+      "sourceHint": "heute",
+      "sourceExample": "Heute ist Montag.",
+      "targetTerm": "today",
+      "targetHint": "təˈdeɪ",
+      "targetExample": "Today is Monday.",
+      "level": "A1.2",
+      "wordType": "Adverb"
+    },
+    {
+      "sourceTerm": "morgen",
+      "sourceHint": "morgen",
+      "sourceExample": "Morgen regnet es.",
+      "targetTerm": "tomorrow",
+      "targetHint": "təˈmɒrəʊ",
+      "targetExample": "It will rain tomorrow.",
+      "level": "A1.2",
+      "wordType": "Adverb"
+    },
+    {
+      "sourceTerm": "Wie geht es dir?",
+      "sourceHint": "Frage nach dem Befinden",
+      "sourceExample": "Hallo, wie geht es dir?",
+      "targetTerm": "How are you?",
+      "targetHint": "Frage nach dem Befinden",
+      "targetExample": "Hello, how are you?",
+      "level": "A1.2",
+      "wordType": "Redewendung"
+    }
+  ]
+}

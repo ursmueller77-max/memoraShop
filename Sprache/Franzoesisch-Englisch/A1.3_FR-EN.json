@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "ImportExportKey": "323461019ca24ba28979889f51cde98d",
+  "cardsKey": "ca131e490ec14ea0b567cf033bc5dd65",
+  "source": "Französisch",
+  "target": "Englisch",
+  "sourceVoice": "fr-FR",
+  "targetVoice": "en-US",
+  "cards": [
+    {
+      "sourceTerm": "train",
+      "sourceHint": "le train",
+      "sourceExample": "Le train part à huit heures.",
+      "targetTerm": "train",
+      "targetHint": "treɪn",
+      "targetExample": "The train leaves at eight.",
+      "level": "A1.3",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "avion",
+      "sourceHint": "l'avion",
+      "sourceExample": "L'avion atterrit.",
+      "targetTerm": "airplane",
+      "targetHint": "ˈeəpleɪn",
+      "targetExample": "The plane lands.",
+      "level": "A1.3",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "billet",
+      "sourceHint": "le billet",
+      "sourceExample": "J'achète un billet.",
+      "targetTerm": "ticket",
+      "targetHint": "ˈtɪkɪt",
+      "targetExample": "I buy a ticket.",
+      "level": "A1.3",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "hôtel",
+      "sourceHint": "l'hôtel",
+      "sourceExample": "L'hôtel est central.",
+      "targetTerm": "hotel",
+      "targetHint": "həʊˈtel",
+      "targetExample": "The hotel is central.",
+      "level": "A1.3",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "chambre",
+      "sourceHint": "la chambre",
+      "sourceExample": "La chambre est libre.",
+      "targetTerm": "room",
+      "targetHint": "ruːm",
+      "targetExample": "The room is available.",
+      "level": "A1.3",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "voyager",
+      "sourceHint": "voyager",
+      "sourceExample": "J'aime voyager.",
+      "targetTerm": "to travel",
+      "targetHint": "ˈtrævəl",
+      "targetExample": "I like to travel.",
+      "level": "A1.3",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "réserver",
+      "sourceHint": "réserver",
+      "sourceExample": "Je réserve une chambre.",
+      "targetTerm": "to book",
+      "targetHint": "bʊk",
+      "targetExample": "I book a room.",
+      "level": "A1.3",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "à gauche",
+      "sourceHint": "à gauche",
+      "sourceExample": "Allez à gauche.",
+      "targetTerm": "left",
+      "targetHint": "left",
+      "targetExample": "Go to the left.",
+      "level": "A1.3",
+      "wordType": "Adverb"
+    },
+    {
+      "sourceTerm": "à droite",
+      "sourceHint": "à droite",
+      "sourceExample": "L'hôtel est à droite.",
+      "targetTerm": "right",
+      "targetHint": "raɪt",
+      "targetExample": "The hotel is on the right.",
+      "level": "A1.3",
+      "wordType": "Adverb"
+    },
+    {
+      "sourceTerm": "Où est la gare ?",
+      "sourceHint": "question de chemin",
+      "sourceExample": "Excusez-moi, où est la gare ?",
+      "targetTerm": "Where is the station?",
+      "targetHint": "Frage nach dem Weg",
+      "targetExample": "Excuse me, where is the station?",
+      "level": "A1.3",
+      "wordType": "Redewendung"
+    }
+  ]
+}

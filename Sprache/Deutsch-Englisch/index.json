@@ -1,0 +1,33 @@
+{
+  "version": 1,
+  "cards": [
+    {
+      "file": "A1.1_DE-EN.json",
+      "level": "A1.1",
+      "cardsKey": "6f16c78971194527b49c4e90ee811d13",
+      "source": "Deutsch",
+      "target": "Englisch"
+    },
+    {
+      "file": "A1.2_DE-EN.json",
+      "level": "A1.2",
+      "cardsKey": "49d80d6606cd4798a33037423bceeb57",
+      "source": "Deutsch",
+      "target": "Englisch"
+    },
+    {
+      "file": "A1.3_DE-EN.json",
+      "level": "A1.3",
+      "cardsKey": "ea41b8ee249a4e91957a753fad90d2cc",
+      "source": "Deutsch",
+      "target": "Englisch"
+    },
+    {
+      "file": "A1.4_DE-EN.json",
+      "level": "A1.4",
+      "cardsKey": "b4a8b3b798fb4aed82b086135bc987d2",
+      "source": "Deutsch",
+      "target": "Englisch"
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "entries": {
+    "subject.language": {
+      "de": "Sprache",
+      "en": "Language"
+    },
+    "subject.mathematics": {
+      "de": "Mathematik",
+      "en": "Mathematics"
+    },
+    "subject.history": {
+      "de": "Geschichte",
+      "en": "History"
+    },
+    "language.de": {
+      "de": "Deutsch",
+      "en": "German"
+    },
+    "language.en": {
+      "de": "Englisch",
+      "en": "English"
+    },
+    "language.fr": {
+      "de": "Französisch",
+      "en": "French"
+    }
+  }
+}

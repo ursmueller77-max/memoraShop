@@ -1,0 +1,27 @@
+{
+  "version": 1,
+  "ImportExportKey": "7015c17ee0364f3488f5620127580e63",
+  "cardsKey": "0cd15bd2cf854c728bd367933fcf6058",
+  "source": "Frage",
+  "target": "Antwort",
+  "sourceVoice": "Default",
+  "targetVoice": "Default",
+  "cards": [
+    {
+      "sourceTerm": "In welchem Jahr wurde Rom der Legende nach gegründet?",
+      "sourceHint": "Stadtgründung",
+      "targetTerm": "753 v. Chr.",
+      "targetHint": "Der Legende nach",
+      "level": "Antike",
+      "wordType": "Frage"
+    },
+    {
+      "sourceTerm": "Wer war der erste römische Kaiser?",
+      "sourceHint": "Römisches Reich",
+      "targetTerm": "Augustus",
+      "targetHint": "27 v. Chr. bis 14 n. Chr.",
+      "level": "Antike",
+      "wordType": "Frage"
+    }
+  ]
+}

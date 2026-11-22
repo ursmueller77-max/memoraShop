@@ -1,0 +1,111 @@
+{
+  "version": 1,
+  "ImportExportKey": "323461019ca24ba28979889f51cde98d",
+  "cardsKey": "ebeae06cb3dc4ec8bb9a319280b35153",
+  "source": "Französisch",
+  "target": "Englisch",
+  "sourceVoice": "fr-FR",
+  "targetVoice": "en-US",
+  "cards": [
+    {
+      "sourceTerm": "Bonjour",
+      "sourceHint": "salutation le matin",
+      "sourceExample": "Bonjour, comment vas-tu ?",
+      "targetTerm": "Good morning",
+      "targetHint": "Begrüssung am Morgen",
+      "targetExample": "Good morning, how are you?",
+      "level": "A1.2",
+      "wordType": "Redewendung"
+    },
+    {
+      "sourceTerm": "Merci",
+      "sourceHint": "politesse",
+      "sourceExample": "Merci pour l'aide.",
+      "targetTerm": "Thank you",
+      "targetHint": "Höflichkeit",
+      "targetExample": "Thank you for the help.",
+      "level": "A1.2",
+      "wordType": "Redewendung"
+    },
+    {
+      "sourceTerm": "S'il vous plaît",
+      "sourceHint": "politesse",
+      "sourceExample": "Un verre d'eau, s'il vous plaît.",
+      "targetTerm": "Please",
+      "targetHint": "Höflichkeit",
+      "targetExample": "A glass of water, please.",
+      "level": "A1.2",
+      "wordType": "Redewendung"
+    },
+    {
+      "sourceTerm": "Excusez-moi",
+      "sourceHint": "politesse",
+      "sourceExample": "Excusez-moi, où est la gare ?",
+      "targetTerm": "Excuse me",
+      "targetHint": "Höflichkeit",
+      "targetExample": "Excuse me, where is the station?",
+      "level": "A1.2",
+      "wordType": "Redewendung"
+    },
+    {
+      "sourceTerm": "gare",
+      "sourceHint": "la gare",
+      "sourceExample": "La gare est proche.",
+      "targetTerm": "train station",
+      "targetHint": "ˈtreɪn ˌsteɪʃən",
+      "targetExample": "The station is near.",
+      "level": "A1.2",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "médecin",
+      "sourceHint": "le médecin",
+      "sourceExample": "Je vais chez le médecin.",
+      "targetTerm": "doctor",
+      "targetHint": "ˈdɒktər",
+      "targetExample": "I go to the doctor.",
+      "level": "A1.2",
+      "wordType": "Nomen"
+    },
+    {
+      "sourceTerm": "faire les courses",
+      "sourceHint": "faire les courses",
+      "sourceExample": "Je fais les courses au supermarché.",
+      "targetTerm": "to shop",
+      "targetHint": "ʃɒp",
+      "targetExample": "I shop at the supermarket.",
+      "level": "A1.2",
+      "wordType": "Verb"
+    },
+    {
+      "sourceTerm": "aujourd'hui",
+      "sourceHint": "aujourd'hui",
+      "sourceExample": "Aujourd'hui, c'est lundi.",
+      "targetTerm": "today",
+      "targetHint": "təˈdeɪ",
+      "targetExample": "Today is Monday.",
+      "level": "A1.2",
+      "wordType": "Adverb"
+    },
+    {
+      "sourceTerm": "demain",
+      "sourceHint": "demain",
+      "sourceExample": "Il pleuvra demain.",
+      "targetTerm": "tomorrow",
+      "targetHint": "təˈmɒrəʊ",
+      "targetExample": "It will rain tomorrow.",
+      "level": "A1.2",
+      "wordType": "Adverb"
+    },
+    {
+      "sourceTerm": "Comment vas-tu ?",
+      "sourceHint": "question sur l'état",
+      "sourceExample": "Bonjour, comment vas-tu ?",
+      "targetTerm": "How are you?",
+      "targetHint": "Frage nach dem Befinden",
+      "targetExample": "Hello, how are you?",
+      "level": "A1.2",
+      "wordType": "Redewendung"
+    }
+  ]
+}
